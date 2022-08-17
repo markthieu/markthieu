@@ -2,9 +2,43 @@
 
 My stack and tools
 
-[![Typescript](https://camo.githubusercontent.com/6c7a206a28f38a98f5c48337d4a77c6079c04cf2687a754788dd0e6cd13f641e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3246373342463f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)](https://www.typescriptlang.org/)
+Frontend
 
-[![Javascript](https://camo.githubusercontent.com/2559664ade90356ebe1bf0ed7b822b5cb09b4fb08b9a66feffc7c304ca2493cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://js.org/)
+[<img src="https://user-images.githubusercontent.com/41586405/185258898-fc01e4bd-6a09-4ca1-a2e2-256233d1fb70.png" width="127">
+](https://angular.io/)
+
+[![Typescript](https://user-images.githubusercontent.com/41586405/185259071-bba7dcb6-eba2-4032-96c1-4d6a5b5ac0b5.svg)](https://www.typescriptlang.org/)
+
+[![Javascript](https://user-images.githubusercontent.com/41586405/185259118-b4151715-89b1-401f-a7a1-8baf3b3d9391.svg)](https://js.org/)
+
+Backend
+
+[![Node](https://user-images.githubusercontent.com/41586405/185259244-62facbbd-74ed-4996-83c8-b48114e4193f.svg)](https://nodejs.de)
+
+[![Express](https://user-images.githubusercontent.com/41586405/185259429-bc51219f-7769-42b0-bf14-806618752a2e.svg
+)](https://expressjs.com/)
+
+[![GraphQL](https://user-images.githubusercontent.com/41586405/185259286-5a81f2c5-708c-4a0d-a97f-684165256919.svg)](https://graphql.org/)
+
+[![Firebase](https://user-images.githubusercontent.com/41586405/185259326-deddd47a-2be1-4bd2-be30-37b54cbf7c4b.svg)](https://firebase.google.com/)
+
+
+Data
+
+[![PostgreSQL](https://user-images.githubusercontent.com/41586405/185259596-1771d3dd-2cd9-4c10-ba14-b53db617f4da.svg)](https://www.postgresql.org/)
+
+[![Prisma](https://user-images.githubusercontent.com/41586405/185259286-5a81f2c5-708c-4a0d-a97f-684165256919.svg)](https://www.prisma.io/)
+
+
+Other tools
+
+[![Git](https://user-images.githubusercontent.com/41586405/185259576-462c8f32-1bba-4b42-982d-87203c800a1a.svg)](https://git-scm.com/)
+
+[![Github](https://user-images.githubusercontent.com/41586405/185259580-c34528c3-3c05-4cbb-b1c0-6df06ce4a11a.svg)](https://github.com/)
+
+[![Figma](https://user-images.githubusercontent.com/41586405/185259600-96ba2297-22e6-4e14-a323-499f607d996e.svg)](https://www.figma.com/)
+
+
 
 
 
